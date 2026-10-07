@@ -30,7 +30,6 @@ The objective is to transform raw operational data into reliable, analytics-read
 
 # 🏗️ Architecture
 
-```mermaid
 flowchart LR
 
     A[(PostgreSQL / Neon)]
